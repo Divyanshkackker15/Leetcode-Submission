@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -31,4 +32,9 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0145-binary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0700-search-in-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
