@@ -40,4 +40,24 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0700-search-in-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
