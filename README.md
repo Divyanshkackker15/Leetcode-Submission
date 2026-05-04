@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Array
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -52,12 +53,22 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
