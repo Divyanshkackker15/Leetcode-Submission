@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
@@ -54,11 +55,13 @@ A collection of LeetCode questions to ace the coding interview! -
 | ------- |
 | [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -67,8 +70,22 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Hash Table
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
