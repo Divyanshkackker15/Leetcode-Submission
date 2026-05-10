@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0148-sort-list) |
+| [0203-remove-linked-list-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -108,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0502-ipo](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0502-ipo) |
 | [0767-reorganize-string](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0846-hand-of-straights) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
