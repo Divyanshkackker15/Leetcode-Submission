@@ -113,4 +113,17 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0203-remove-linked-list-elements) |
+| [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
+## Math
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
