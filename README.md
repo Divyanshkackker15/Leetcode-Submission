@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
