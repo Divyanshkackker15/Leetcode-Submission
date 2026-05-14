@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0680-valid-palindrome-ii) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 | [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -142,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0258-add-digits) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
