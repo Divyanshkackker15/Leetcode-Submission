@@ -10,9 +10,8 @@ class Solution {
         return ans;
     }
 
-    public void solve(int open, int close, int n,
-                      StringBuilder temp,
-                      List<String> ans)
+
+    public void solve(int open, int close, int n,StringBuilder temp,List<String> ans)
     {
 
         // Base condition
