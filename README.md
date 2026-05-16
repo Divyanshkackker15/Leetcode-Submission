@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! -
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0007-reverse-integer) |
 | [0258-add-digits](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
