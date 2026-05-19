@@ -16,6 +16,8 @@ class Solution {
             ans.add(new ArrayList<>(dairy));
             return;
         }
+        // mth lo
+        solve(nums,idx+1,ans,dairy);
 
         dairy.add(nums[idx]);
 
@@ -23,6 +25,5 @@ class Solution {
 
         dairy.remove(dairy.size()-1);
 
-        solve(nums,idx+1,ans,dairy);
     }
 }
