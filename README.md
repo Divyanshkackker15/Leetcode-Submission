@@ -133,16 +133,19 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0007-reverse-integer) |
+| [0070-climbing-stairs](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0258-add-digits) |
 | [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0022-generate-parentheses) |
+| [0070-climbing-stairs](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
