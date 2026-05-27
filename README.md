@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0846-hand-of-straights) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! -
 | [0344-reverse-string](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0680-valid-palindrome-ii) |
 | [0767-reorganize-string](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0767-reorganize-string) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Greedy
 |  |
 | ------- |
