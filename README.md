@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0039-combination-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0073-set-matrix-zeroes](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0073-set-matrix-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0347-top-k-frequent-elements) |
 | [0767-reorganize-string](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0846-hand-of-straights) |
@@ -168,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! -
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0078-subsets) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Divyanshkackker15/Leetcode-Submission/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
